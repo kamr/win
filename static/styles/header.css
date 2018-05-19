@@ -1,0 +1,36 @@
+.header {
+  width: 100%;
+  height: 80px;
+  /* background-color: rgb(36, 36, 36); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.winnie {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 100;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+.header-button {
+  display: inline-block;
+  margin: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: rgb(146, 146, 146);
+  font-weight: 100;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.header-button:hover {
+  color: black;
+}
+
+.header-button-active {
+  color:black;
+}

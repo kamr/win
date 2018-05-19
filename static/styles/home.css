@@ -1,0 +1,11 @@
+.mainImageBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.mainImageBox img {
+  width: 30%;
+  height: 30%;
+}
